@@ -1,0 +1,11 @@
+age,gender,region,policy_tenure_months,vehicle_age_years,vehicle_type,annual_premium,num_prev_claims,driving_experience_years,credit_score,annual_mileage_km,has_anti_theft,occupation,marital_status,pred_prob_claim,pred_claim_amount
+42,Male,North,189,19,Sedan,15636.04,0,23.0,707.0,16182.0,No,Self-employed,Married,0.82,35306.668999999965
+44,Female,North,121,14,Sedan,9931.97,0,23.0,714.0,20430.0,Yes,Employed,Married,0.81,14827.70850000001
+45,Male,West,186,19,Sedan,3097.74,0,24.0,589.0,8361.0,No,Employed,Married,0.8,39821.18549999998
+74,Male,North,154,19,SUV,11752.3,0,58.0,572.0,7423.0,No,Employed,Married,0.91,41760.771299999964
+69,Male,South,188,0,Motorcycle,13466.18,0,51.0,708.0,15526.0,No,Self-employed,Single,0.96,38130.9631
+33,Female,North,158,19,Sedan,6693.9,0,12.0,680.0,6744.0,No,Employed,Single,0.76,30575.913100000005
+79,Male,North,208,6,Motorcycle,15998.8,1,58.0,702.0,18791.0,No,Unemployed,Married,0.92,42148.40389999999
+71,Male,East,201,6,Sedan,22154.57,0,52.0,719.0,15538.0,No,Employed,Married,0.82,33687.01200000003
+33,Male,West,13,0,Sedan,16084.69,0,13.0,,14061.0,No,Employed,Married,0.71,29427.427200000002
+31,Male,South,138,18,SUV,6831.06,1,11.0,614.0,17659.0,Yes,Employed,Single,0.76,31204.502700000005
